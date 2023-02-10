@@ -14,9 +14,12 @@
 
 <h3 style="font-size:26px">Voici un éventaille de mes compétences</h3>
 
-<h3 style="font-size:24px">Languages</h3>
+<h2 style="font-size:24px">Languages</h2>
+
+<h3 style="font-size:24px">Front End</h3>
 
 ![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=65adf1)
+![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=4169e1)
+![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 
 
