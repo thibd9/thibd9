@@ -33,9 +33,9 @@
 
 ![](https://img.shields.io/badge/code-Figma-blue?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 ![](https://img.shields.io/badge/code-adobeXD-blue?style=for-the-badge&logo=adobexd&logoColor=white&color=FF61F6)
-![](https://img.shields.io/badge/code-Illustrator-blue?style=for-the-badge&logo=illustrator&logoColor=white&color=FF9A00)
-![](https://img.shields.io/badge/code-Photoshop-blue?style=for-the-badge&logo=photoshop&logoColor=white&color=31A8FF)
-![](https://img.shields.io/badge/code-InDesign-blue?style=for-the-badge&logo=indesign&logoColor=white&color=FF3366)
+![](https://img.shields.io/badge/code-Illustrator-blue?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=FF9A00)
+![](https://img.shields.io/badge/code-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/code-InDesign-blue?style=for-the-badge&logo=adobeindesign&logoColor=white&color=FF3366)
 
 <h3 style="font-size:24px">Technologies en apprentissage</h3>
 
