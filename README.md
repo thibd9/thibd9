@@ -1,6 +1,13 @@
 <center>
   
 <h1 align="center">Bonjour, Je suis Thibaut Dalmasso</h1>
+
+<h3 style="font-size:24px">Mon LinkedIn</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thibaut-dalmasso-a1a121210/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
   
 <h2 style="margin-bottom:0.5rem;">Developpeur Web et Web Mobile</h2>
   
@@ -41,3 +48,4 @@
 
 ![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/code-Symfony-blue?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
+![](https://img.shields.io/badge/code-Svelte-blue?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00)
