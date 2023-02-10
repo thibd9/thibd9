@@ -43,9 +43,12 @@
 ![](https://img.shields.io/badge/code-Illustrator-blue?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=FF9A00)
 ![](https://img.shields.io/badge/code-Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/code-InDesign-blue?style=for-the-badge&logo=adobeindesign&logoColor=white&color=FF3366)
+![](https://img.shields.io/badge/code-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 
 <h3 style="font-size:24px">Technologies en apprentissage</h3>
 
 ![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/code-Symfony-blue?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/code-Svelte-blue?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00)
+![](https://img.shields.io/badge/code-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+
