@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=4169e1)
 ![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/code-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&color=8E7CC3)
+![](https://img.shields.io/badge/code-TailWind-blue?style=for-the-badge&logo=Tailwind CSS&logoColor=white&color=06B6D4)
 
 
 
