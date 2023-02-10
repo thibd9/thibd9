@@ -3,7 +3,7 @@
 <h1 align="center">Bonjour, Je suis Thibaut Dalmasso</h1>
 
 <h3 style="font-size:24px">Mon LinkedIn</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/thibaut-dalmasso-a1a121210/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
