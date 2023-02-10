@@ -21,5 +21,7 @@
 ![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=4169e1)
 ![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/code-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&color=8E7CC3)
+
 
 
