@@ -27,3 +27,9 @@
 <h3 style="font-size:24px">Back End</h3>
 
 ![](https://img.shields.io/badge/code-PHP-blue?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/code-Laravel-blue?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
+
+<h3 style="font-size:24px">Technologies en apprentissage</h3>
+
+![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/code-Symfony-blue?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
