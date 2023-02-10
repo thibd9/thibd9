@@ -13,3 +13,10 @@
 <p style="font-size: 16px;">Une grande partie de mon apprentissage s'est focalisé sur les langages et technologies Back End afin de m'adapter au marché français toujours plus en demande sur ce secteur, cela étant dit j'ai une passion pour les langags Front End et une réelle envie d'apprentissage sur ceux-ci</p>
 
 <h3 style="font-size:26px">Voici un éventaille de mes compétences</h3>
+
+<h3 style="font-size:24px">Languages</h3>
+
+![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=65adf1)
+
+
