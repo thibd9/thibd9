@@ -29,6 +29,14 @@
 ![](https://img.shields.io/badge/code-PHP-blue?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/code-Laravel-blue?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
+<h3 style="font-size:24px">Design</h3>
+
+![](https://img.shields.io/badge/code-Figma-blue?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
+![](https://img.shields.io/badge/code-adobeXD-blue?style=for-the-badge&logo=adobexd&logoColor=white&color=FF61F6)
+![](https://img.shields.io/badge/code-Illustrator-blue?style=for-the-badge&logo=illustrator&logoColor=white&color=FF9A00)
+![](https://img.shields.io/badge/code-Photoshop-blue?style=for-the-badge&logo=photoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/code-InDesign-blue?style=for-the-badge&logo=indesign&logoColor=white&color=FF3366)
+
 <h3 style="font-size:24px">Technologies en apprentissage</h3>
 
 ![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
