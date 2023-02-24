@@ -21,7 +21,7 @@
 
 <h3 style="font-size:26px">Voici un éventaille de mes compétences</h3>
 
-<h2 style="font-size:24px">Languages</h2>
+<h2 style="font-size:24px">Langages</h2>
 
 <h3 style="font-size:24px">Front End</h3>
 
