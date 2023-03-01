@@ -19,7 +19,7 @@
 
 <p style="font-size: 16px;">Une grande partie de mon apprentissage s'est focalisé sur les langages et technologies Back End afin de m'adapter au marché français toujours plus en demande sur ce secteur, cela étant dit j'ai une passion pour les langages Front End et une réelle envie d'apprentissage sur ceux-ci.</p>
 
-<h3 style="font-size:26px">Voici un éventaille de mes compétences</h3>
+<h3 style="font-size:26px">Voici un éventail de mes compétences</h3>
 
 <h2 style="font-size:24px">Langages</h2>
 
