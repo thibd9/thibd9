@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&color=4169e1)
 ![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/code-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&color=8E7CC3)
 ![](https://img.shields.io/badge/code-TailWind-blue?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=06B6D4)
 
@@ -47,7 +48,6 @@
 
 <h3 style="font-size:24px">Technologies en apprentissage</h3>
 
-![](https://img.shields.io/badge/code-React-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/code-Symfony-blue?style=for-the-badge&logo=symfony&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/code-Svelte-blue?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00)
 ![](https://img.shields.io/badge/code-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
